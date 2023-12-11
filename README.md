@@ -10,6 +10,7 @@ se a quantidade estiver menor de 5 ou negativa deve-se enviar um e-mail ao respo
 ### exemplo da plainha que está sendo consultada
 
 Código do produto | Estoque | descrição | Total do produto em estoque| Nome do produto | Marca | Modelo Preço
+--------------------------------------------------------------------------------------------------------------
 40051              |12      |Camiseta_Azul| Camiseta|Loja modelo|Marca B| 100,00
 40052              |-1      | Camiseta Vermelha    | Camiseta  | Loja 2| Marca Z| 50,00
 40053             |2        |Boné verde |Boné|Loja 1| Marca C| 35,00
